@@ -1,0 +1,6 @@
+{'Total Months': 86, 'Total': Profit/Losses    38382578
+dtype: int64, 'Average  Change': 19426631.2, 'Greatest Increase in Profits': Date             Feb-2012
+Profit/Losses     1170593
+Name: 25, dtype: object, 'Greatest Decrease in Profits': Date             Sep-2013
+Profit/Losses    -1196225
+Name: 44, dtype: object}
